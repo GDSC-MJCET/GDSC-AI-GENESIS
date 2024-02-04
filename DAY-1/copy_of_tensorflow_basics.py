@@ -7,6 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1DRDPnjAV7n6wveRGpn4bkh7kp7nZrlpl
 """
 
+#importing tensorflow
+import tensorflow as tf
+
+
 # Create a scalar (rank 0 tensor)
 scalar = tf.constant(7)
 scalar
