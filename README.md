@@ -1,4 +1,4 @@
-![AI GENESIS POSTER]([WhatsApp Image 2024-01-31 at 13.03.48_3e1d2be5.jpg](https://github.com/GDSC-MJCET/GDSC-AI-GENESIS/blob/main/WhatsApp%20Image%202024-01-31%20at%2013.03.48_3e1d2be5.jpg))
+![AI GENESIS POSTER](https://github.com/GDSC-MJCET/GDSC-AI-GENESIS/blob/main/WhatsApp%20Image%202024-01-31%20at%2013.03.48_3e1d2be5.jpg)
 
 ## Welcome to AI GENESIS!
 
