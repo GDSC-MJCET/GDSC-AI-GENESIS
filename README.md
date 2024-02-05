@@ -1,3 +1,5 @@
+![AI GENESIS POSTER](WhatsApp Image 2024-01-31 at 13.03.48_3e1d2be5.jpg)
+
 ## Welcome to AI GENESIS!
 
 We are excited to have you join us for a 5-day event diving into the world of AI technologies. Get ready for an immersive experience filled with workshops, presentations, and networking opportunities.
